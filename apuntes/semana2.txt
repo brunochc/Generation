@@ -1,0 +1,30 @@
+Repaso - Introducción - Variables Estructuras básicas
+
+
+Puntos Clave
+Un programa es una serie de instrucciones que puede ejecutar un computador.
+Un lenguaje de programación es un conjunto formal de reglas (sintaxis) para escribir un programa de computadora.
+Los lenguajes de programación tienen características y sintaxis diferentes, pero comparten muchos conceptos fundamentales.
+"Hola, mundo" es un programa común y sencillo que se utiliza para demostrar la sintaxis básica de un lenguaje de programación.
+Un programa puede recibir entradas del usuario de forma interactiva mediante una sentencia de entrada
+Un programa puede almacenar datos en variables de distintos tipos
+Un programa puede enviar datos a la pantalla mediante una sentencia de impresión
+Una variable es una ubicación de almacenamiento de datos con nombre.
+Los datos pueden almacenarse como uno de los muchos tipos, como cadenas o números, denominados primitivos.
+Los datos pueden organizarse en estructuras, como listas u objetos, denominadas estructuras de datos.
+
+
+Preguntas para reflexionar
+
+¿Qué es un programa de computador?
+Un programa de computador es un conjunto de instrucciones que pueden ser ejecutadas por un computador.
+¿Qué es un lenguaje de programación?
+Un lenguaje de programación es un lenguaje formal, compuesto de sintaxis, que puede utilizarse para escribir un programa de computadora.
+¿Por qué existen diferentes lenguajes de programación?
+Los distintos lenguajes de programación tienen sintaxis y características diferentes, y se adaptan a tareas diferentes. Sin embargo, todos los lenguajes de programación comparten conceptos clave como variables, bucles y tipos de datos.
+¿Qué es un programa "¡Hola, mundo!
+Un programa "¡Hola, mundo!" Es un programa sencillo que muestra las palabras "¡Hola, mundo!" en la pantalla. Suele ser el primer programa que escriben las personas que prueban un nuevo lenguaje de programación.
+¿Qué es una variable? ¿Qué puede contener?
+Una variable es una ubicación de almacenamiento en memoria para un dato. Puede contener cualquier tipo o estructura de datos.
+¿Cómo se accede a un elemento de una lista? ¿Cómo se accede a un elemento de un diccionario?
+Para acceder a un elemento de una lista, se utiliza el número de índice del elemento; en un diccionario, se puede utilizar la clave del elemento.

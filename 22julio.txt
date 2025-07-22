@@ -1,0 +1,125 @@
+🧠 EJERCICIOS PROPUESTOS – INTRODUCCIÓN A PYTHON
+
+1. "Hola, mundo" y sintaxis básica
+Objetivo: Comprender la estructura mínima de un programa en Python.
+Escriba un programa que imprima en pantalla:
+ "Hola, mundo"
+
+
+Escriba un segundo programa que imprima:
+ "Bienvenido al mundo de Python"
+
+
+
+2. Entrada de datos desde el usuario
+Objetivo: Practicar cómo un programa puede recibir datos del usuario.
+Solicite al usuario su nombre con input() y guárdelo en una variable nombre.
+
+
+Solicite su edad y guárdela en una variable edad.
+
+
+Imprima un mensaje que diga:
+ "Hola, [nombre]. Tienes [edad] años."
+
+
+
+3. Variables y tipos de datos primitivos
+Objetivo: Declarar y trabajar con variables de distintos tipos.
+Declare las siguientes variables:
+
+
+entero = 10 (int)
+
+
+decimal = 3.14 (float)
+
+
+texto = "Python" (str)
+
+
+booleano = True (bool)
+
+
+Imprima el valor de cada variable junto con su tipo usando type().
+
+
+
+4. Concatenación de cadenas
+Objetivo: Unir textos usando variables (identifica las variables y defínelas).
+Cree un mensaje como:
+
+
+saludo = "Hola, me llamo " + nombre + " y tengo " + edad + " años."
+Imprima el mensaje.
+
+
+
+5. Operaciones matemáticas
+Objetivo: Usar variables numéricas en operaciones.
+Cree dos variables:
+a = 5
+b = 2.5
+
+
+Realice las siguientes operaciones y guarde el resultado en una variable e imprima los resultados:
+
+
+Suma (a + b):
+Ejemplo: resultado = a + b
+
+
+Resta (a - b)
+
+
+Multiplicación (a * b)
+
+
+División (a / b)
+
+
+
+6. Estructuras de datos – Listas
+Objetivo: Introducción al uso de listas.
+Cree una lista llamada frutas con 3 frutas.
+
+
+Imprima la primera fruta.
+
+
+Agregue una fruta nueva al final.
+
+
+
+7. Estructuras de datos – Diccionarios (objetos)
+Objetivo: Guardar datos con claves.
+Cree un diccionario persona con los campos:
+
+
+"nombre"
+
+
+"edad"
+
+
+"ciudad"
+
+
+Imprima el valor de "ciudad".
+
+
+Cambie la edad a un nuevo valor.
+
+
+
+
+
+
+
+8. Presentación personalizada avanzada
+Objetivo: Unir múltiples conceptos en un solo programa.
+Usando las variables (nombre, edad, ciudad), construya otra variable presentacion que diga:
+
+
+Hola, me llamo [nombre], tengo [edad] años y vivo en [ciudad]. Me gusta programar en [lenguaje].
+Imprima el mensaje.
