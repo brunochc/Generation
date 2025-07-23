@@ -28,3 +28,13 @@ Un programa "¡Hola, mundo!" Es un programa sencillo que muestra las palabras "�
 Una variable es una ubicación de almacenamiento en memoria para un dato. Puede contener cualquier tipo o estructura de datos.
 ¿Cómo se accede a un elemento de una lista? ¿Cómo se accede a un elemento de un diccionario?
 Para acceder a un elemento de una lista, se utiliza el número de índice del elemento; en un diccionario, se puede utilizar la clave del elemento.
+
+Control de flujo
+
+        inicio
+          |
+        entrada(ingreso numero ej)
+          | 
+        condicion(evaluacion de: si es divisible por tres returna fizz, si es divisible por 5 buzz, y si es divisible por 3 y 5 fizz,buzz)  
+          |
+        Fin

@@ -1,0 +1,93 @@
+Condicionales en Python: if, elif, else
+
+Los condicionales permiten controlar el flujo de un programa ejecutando diferentes bloques de código según se cumplan o no ciertas condiciones.
+Estructura básica
+python
+
+if condición1:
+    # código que se ejecuta si condición1 es True
+elif condición2:
+    # código que se ejecuta si condición1 es False y condición2 es True
+else:
+    # código que se ejecuta si todas las condiciones anteriores son False
+
+Comparaciones comunes
+
+Los operadores de comparación devuelven True o False:
+
+    == igual a
+
+    != no igual a
+
+    > mayor que
+
+    < menor que
+
+    >= mayor o igual que
+
+    <= menor o igual que
+
+Ejemplo completo
+python
+
+edad = 18
+
+if edad < 13:
+    print("Eres un niño")
+elif 13 <= edad < 18:
+    print("Eres un adolescente")
+else:
+    print("Eres un adulto")
+
+Explicación:
+
+    Primero verifica si edad < 13
+
+    Si no, verifica si 13 <= edad < 18
+
+    Si ninguna de las anteriores es verdadera, ejecuta el bloque else
+
+Operadores lógicos
+
+Puedes combinar condiciones con:
+
+    and (y) - ambas condiciones deben ser verdaderas
+
+    or (o) - al menos una condición debe ser verdadera
+
+    not (no) - niega la condición
+
+python
+
+if edad >= 18 and tiene_licencia:
+    print("Puedes conducir")
+elif edad >= 18 and not tiene_licencia:
+    print("Necesitas obtener una licencia")
+else:
+    print("No puedes conducir")
+
+Condiciones anidadas
+
+Puedes poner condicionales dentro de otros condicionales:
+python
+
+if x > 0:
+    if x % 2 == 0:
+        print("Número positivo par")
+    else:
+        print("Número positivo impar")
+else:
+    print("Número no positivo")
+
+Notas importantes
+
+    La indentación (sangría) es crucial en Python para definir bloques de código
+
+    elif y else son opcionales
+
+    Puedes tener tantos elif como necesites
+
+    Las condiciones se evalúan en orden y solo se ejecuta el primer bloque cuya condición sea verdadera
+
+New chat
+AI-generated, for reference only
