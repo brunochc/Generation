@@ -1,6 +1,6 @@
 num = int(input("ingresa numero :"))
 
-
+#rango
 #modulo resto: % devuelve el resto de una division 3 % 3 =0(RESTO)
 # elseif 
 # el int() = convierte el input string en numero int(input("valor numerico")) = numero 
