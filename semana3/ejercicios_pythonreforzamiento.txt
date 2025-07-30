@@ -1,0 +1,40 @@
+Ejercicios Python
+Conversión de metros a centímetros
+Escribe un programa que pida al usuario un número en metros y lo convierta a centímetros.
+Ejemplo:
+Entrada: Introduce la longitud en metros: 2
+Salida: La longitud en centímetros es: 200 cm
+
+
+Edad en el futuro
+Crea un programa que pida el nombre del usuario y su edad. Luego, calcula cuántos años tendrá en 10 años.
+Ejemplo:
+Entrada:
+Introduce tu nombre: Ana
+Introduce tu edad: 25
+Salida:
+Hola Ana, en 10 años tendrás 35 años.
+
+
+Área de un rectángulo
+Pide al usuario que introduzca la base y la altura de un rectángulo, y muestra el área calculada.
+Ejemplo:
+Entrada:
+Base: 5
+Altura: 3
+Salida:
+El área del rectángulo es: 15
+
+
+Calculadora simple
+Pide al usuario dos números y muestra la suma, resta, multiplicación y división de esos números.
+Ejemplo:
+Entrada:
+Primer número: 8
+Segundo número: 4
+Salida:
+Suma: 12
+Resta: 4
+Multiplicación: 32
+División: 2
+
