@@ -8,6 +8,22 @@
 #Entrada: n = 5
 #Salida: [1, 2, 3, 4, 5]
 
+# pedir el numero de elementos que se desplegara
+n = int(input("ingrese un numero de elementos: "))
+
+# Donde guardare los numero de la lista ... en una lista
+lista = []
+#nesecito un contador, que comience en 1 y que a medida que avance hasta n, valla guardandose en la lista
+i = 1
+
+#while, mientras mi i sea menor o igual que mi n, agragaremos a la lista el valor de i, con append.
+
+while i <= n:
+    lista.append(i)
+    i = i + 1
+
+print(lista)
+
 
 
 
