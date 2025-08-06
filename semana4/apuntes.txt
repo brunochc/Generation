@@ -41,3 +41,10 @@ Lenguaje de programacion :
     se puede asignar un valor a una variable 
 
     let variable = somevalue
+    varaible = valor
+
+    flujo de control basico: if, else if, else
+    comparaccion variables : variable == valor ; variable === valor
+
+
+    while 
