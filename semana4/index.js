@@ -1,18 +1,18 @@
 /*
-todo lo que este dentro de estos caracteres se condciderara comentarios
-
-bien
-
-
+Comentarios
 */
 
+let mivariable;  // declarar variable
+mivariable = "hola mundo"; // asignación de string
 
-let mivariable  // declarar variable --> js asigna un tipo de dato undefinied
-mivariable = "hola mundo" // reasignacion de valor (en este caso string)
+console.log(mivariable);
 
-console.log(mivariable)
+mivariable = 5; // reasignación a number
 
+// Configuración de prompt-sync
+const prompt = require('prompt-sync')({sigint: true}); // <-- Importa correctamente
+const nombre = prompt("Ingrese su nombre: "); // <-- Usa la versión correcta
 
-// prom es el equivalente de input en python
-
-let name = prompt("ingrese su nombre: ")
+console.log(`El nombre de la persona es: ${nombre}`);
+console.log("El nombre de la persona es: " + nombre);
+console.log(typeof nombre);
