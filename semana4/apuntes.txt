@@ -1,0 +1,43 @@
+Javascript
+
+la interactividad de una pagina ocurre porque una pagina teiene javascript, dfesde el servidor o el computador.
+
+esta preinstalado en los navegadores
+
+se utiliza para el desarrollo de software multiplataforma.
+
+
+
+js esta en el pc o servidores -->> node js . bum, demo (entornos de ejecucion de javascript)
+se creo en los 90 app, ninguna pagian tenia interactividad.
+se creo exclusivamente para crear script, que respondieran a estos eventos , que dieran interactividad, hasta el 2004, solo corria en navegadores. y en 2009 google crea el motor v8. despues de tomarlo. se saca ese motor del navegador y se crea el node.js, que se ejecuta localmente.
+
+la ECMA, org internacional de estandares, toman la estandarizacion. el lenguaje se llama en realidad ecma script. 
+
+n8n pagina para crear aplicaciones
+
+donde se utiliza?
+    Sirve para automatizar
+    desarrollo web
+        frontend(lado cliente)
+            html
+            css
+            react --> js
+            bootstrap --> css
+        backend(lado servidor)
+            (librerias) express --> js
+            (base de dato) mongo db 
+            
+    aplicaciones de software
+        escritorio (sistemas operativos)
+        movil(ios android).
+
+
+
+Lenguaje de programacion :
+    console.log("imprimir en pantalla")
+
+    para declarar variables: con let 
+    se puede asignar un valor a una variable 
+
+    let variable = somevalue
