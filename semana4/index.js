@@ -55,3 +55,58 @@ let valorNulo = null; // null
 let valorIndefinido; // undefined
 let simbolo = Symbol("descripcion"); // symbol
 
+// Declaración de variables con var, let y const
+var variableVar = "Soy var"; // var tiene alcance de función
+let variableLet = "Soy let"; // let tiene alcance de bloque
+const variableConst = "Soy const"; // const no puede ser reasignada
+
+console.log(variableVar);
+console.log(variableLet);
+console.log(variableConst);
+
+// Operadores básicos
+let suma = 2 + 3; // suma
+let resta = 5 - 2; // resta
+let multiplicacion = 3 * 4; // multiplicación
+let division = 10 / 2; // división
+let concatenacion = "Hola" + " " + "Mundo"; // concatenación de strings
+
+console.log("Suma:", suma);
+console.log("Resta:", resta);
+console.log("Multiplicación:", multiplicacion);
+console.log("División:", division);
+console.log("Concatenación:", concatenacion);
+
+// Funciones
+function saludar(nombre) {
+    return "Hola, " + nombre + "!";
+}
+console.log(saludar("Bruno"));
+
+// Arrays
+let frutas = ["manzana", "banana", "naranja"];
+console.log("Frutas:", frutas);
+console.log("Primera fruta:", frutas[0]);
+
+// Objetos
+let persona = {
+    nombre: "Bruno",
+    edad: 25,
+    esEstudiante: true
+};
+console.log("Persona:", persona);
+console.log("Nombre de la persona:", persona.nombre);
+
+// Bucle for
+for (let i = 0; i < 3; i++) {
+    console.log("El valor de i es:", i);
+}
+
+// Comentarios en JavaScript
+// Esto es un comentario de línea
+
+/*
+Esto es un comentario
+de bloque
+*/
+
